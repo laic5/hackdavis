@@ -1,0 +1,17 @@
+HackDavis 2016
+My team coded a program using C++ called "SmartFridge". The motivation behind "SmartFridge" is that as college students, you face a common problem where you have limited time, limited budget, and when you open the fridge, there's not much you can work with.
+
+Our team tried to solve mainly the last issue by creating a program that will output the most optimal recipes the user could create based off what they inputted as ingredients they have on hand. We loaded in a recipe database and created a calculating mechanism that would try to rank and categorize which recipes would match up best for the user.
+
+This aims at reducing food waste as well as optimising the average user's daily life.
+
+Next Steps:
+Creating this in iOS and/or Android form
+Adding graphics and more UI
+Ability to save recipes
+Ability to share creations on social media
+Adding more recipes to the database
+Optimising our recipe database parsing algorithm
+Optimising our user input reading mechanism (upper-case, multiple word ingredients, plural vs. singular)
+Creating error cases when the user enters a typo, or we were unable to match
+Improving the scoring mechanism
